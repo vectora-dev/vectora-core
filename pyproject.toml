@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "vectora-core"
 version = "0.1.0"
-description = "Core algorithms and open standards for the Vectora AI Assurance Platform"
+description = "Core algorithms and open standards for the Vectora AI Governance Control Plane"
 readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.9"
